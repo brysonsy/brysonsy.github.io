@@ -6,7 +6,7 @@
     "email": "brysonsy@hawaii.edu",
     "phone": "",
     "website": "https://brysonsy.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "game development",
+      "name": "Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "data mining",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Game Design",
       "keywords": [
       ]
     }
