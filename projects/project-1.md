@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/sudokuHeader.png
+title: Hexadecimal Sudoku Solver
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-03-20
 labels:
   - Robotics
   - Arduino
