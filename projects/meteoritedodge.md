@@ -11,7 +11,7 @@ labels:
 summary: The final group project of ICS 111.
 ---
 
-
+Meteorite Dodge is a group oject that I helped develop in ICS 111.
 
 Here is a demo of the project:
 <div class="ui embed" data-source="youtube" data-id="25QsHb9bsN4">
