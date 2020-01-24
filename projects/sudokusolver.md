@@ -8,7 +8,7 @@ permalink: projects/sudokusolver
 date: 2019-03-20
 labels:
   - Java
-summary: I made a hexadecimal sudoku solver for ICS 211.
+summary: I made a hexadecimal sudoku puzzle solver for ICS 211.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/sudokuSolved.png">
