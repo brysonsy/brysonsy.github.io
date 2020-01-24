@@ -16,6 +16,8 @@ This hurricane survival game was the second project assigned to us in ICS 111. T
 
 For the project we were required to create 3 hurricanes that spawn randomly on the sides of the screen at random speeds. These hurricanes would take food and water from the count if the player is hit by them. The player also lost food and water simply by moving. The only way to increase these two meters would be to collect water and food which appeared on the screen randomly, and after they were collected by the player character they would spawn in another random location. 
 
+This project required the use of classes and object initialization. It also helped me learn good organization techniques due to the fact that we were required to make five classes for this project with many variables. 
+
 Here is a demo of the project:
 <div class="ui embed" data-source="youtube" data-id="ifA7i_LJAbU">
 </div>
