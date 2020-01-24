@@ -2,12 +2,13 @@
 layout: project
 type: project
 image: images/sudokuHeader.png
-title: Hexadecimal Sudoku Puzzle Solver
-permalink: projects/sudokusolver
+title: Hurricane Game
+permalink: projects/hurricanegame
 # All dates must be YYYY-MM-DD format!
-date: 2019-03-20
+date: 2019-02-18
 labels:
   - Java
+  - EZJava
 summary: I made a hexadecimal sudoku puzzle solver for ICS 211.
 ---
 
