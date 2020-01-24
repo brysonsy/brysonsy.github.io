@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sudokuHeader.png
+image: images/hurricaneHeader.png
 title: Hurricane Game
 permalink: projects/hurricanegame
 # All dates must be YYYY-MM-DD format!
@@ -9,7 +9,7 @@ date: 2018-10-21
 labels:
   - Java
   - EZJava
-summary: I made a hexadecimal sudoku puzzle solver for ICS 211.
+summary: A hurricane survival game made for ICS 111.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/sudokuSolved.png">
