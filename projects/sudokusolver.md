@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sudokuHeader.png
-title: Hexadecimal Sudoku Solver
+title: Hexadecimal Sudoku Puzzle Solver
 permalink: projects/sudokusolver
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-20
