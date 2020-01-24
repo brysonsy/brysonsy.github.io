@@ -19,4 +19,6 @@ From a software engineering perspective I feel that JavaScript is a versitile an
 
 ## Becoming a Software Engineer Athlete
 
+Athletic software engineering is a very interesting concept to me, and while I do agree that practice makes perfect, especially when it comes to programming, I can't help but have mixed feelings on it. While I do enjoy having the practice problems and WOD's as it allows me to practice the skills that I need to remember. It can be extremely stressful especially with the all or nothing grading system that WOD's have. Also the amount of work and practice that we have to do can pile up extremely quickly, especially if someone has a heavy course load already. So, this learning style has taken me a bit to adjust to.
+
 
