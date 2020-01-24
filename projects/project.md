@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/sudokuHeader.png
+image: images/meteoritedodge.png
 title: Hexadecimal Sudoku Puzzle Solver
 permalink: projects/project
 # All dates must be YYYY-MM-DD format!
-date: 2019-03-20
+date: 2018-11-29
 labels:
   - Java
-summary: I made a hexadecimal sudoku puzzle solver for ICS 211.
+summary: The final group project of ICS 111.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/sudokuSolved.png">
@@ -19,7 +19,7 @@ For this project, I was tasked with creating a Java program which would recursiv
 
 The program would solve the puzzle by scanning through a row and if an empty space was found. Once an empty space is found the program would then insert a valid number into the space and continue. If the program reaches an empty space where a valid value can not be found, the program would then backtrack and try to change a previous value that was entered until a valid value can be found for the empty space.
 
-You can see my source code for this project [here](https://github.com/brysonsy/hexadecimal-sudoku-solver).
+
 
 
 
