@@ -19,7 +19,7 @@ For this project, I was tasked with creating a Java program which would recursiv
 
 The program would solve the puzzle by scanning through a row and if an empty space was found. Once an empty space is found the program would then insert a valid number into the space and continue. If the program reaches an empty space where a valid value can not be found, the program would then backtrack and try to change a previous value that was entered until a valid value can be found for the empty space.
 
-You can see my source code [here](https://github.com/brysonsy/hexadecimal-sudoku-solver).
+You can see my source code for this project [here](https://github.com/brysonsy/hexadecimal-sudoku-solver).
 
 
 
