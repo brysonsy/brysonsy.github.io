@@ -7,10 +7,8 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-20
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+summary: I made a hexadecimal sudoku solver for ICS 211.
 ---
 
 <div class="ui small rounded images">
