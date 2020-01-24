@@ -5,7 +5,7 @@ image: images/sudokuHeader.png
 title: Hurricane Game
 permalink: projects/hurricanegame
 # All dates must be YYYY-MM-DD format!
-date: 2019-02-18
+date: 2018-10-21
 labels:
   - Java
   - EZJava
