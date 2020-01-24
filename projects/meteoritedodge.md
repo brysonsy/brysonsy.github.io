@@ -8,6 +8,7 @@ permalink: projects/meteoritedodge
 date: 2018-11-29
 labels:
   - Java
+  - EZJava
 summary: The final group project of ICS 111.
 ---
 
