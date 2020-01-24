@@ -5,12 +5,11 @@ image: images/vacay-square.png
 title: Meteorite Dodge Game
 permalink: projects/meteoritedodge
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-11-29
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Java
+  - JavaEZ
+  - Game
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
