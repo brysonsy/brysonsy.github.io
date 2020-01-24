@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/meteoritedodge.png
-title: Hexadecimal Sudoku Puzzle Solver
+title: Meteorite Dodge Game
 permalink: projects/project
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-29
