@@ -31,7 +31,9 @@ This question is concise and specific, with the author immediately giving an exp
 
 ## A Question that is not as Smart
 
-[Here](https://stackoverflow.com/questions/43120543/convert-given-time-into-millisecond) is an example of a question that is not as smart. Though the title of the question is somewhat adequate for identifying the problem the user is having, the question itself is another story. It is brief, not concise like the smart question that was shown before. It has a single sentence with the user asking how to convert given time into milliseconds. It is quite obvious that the user did no research of their question before posting it, which is shown by the short and vague question the user asked. Thus, the question was met by equally curt responses with users directing the original poster to links and other resources. Though the question was eventually answered it was also flagged for being to broad.
+[Here](https://stackoverflow.com/questions/43120543/convert-given-time-into-millisecond) is an example of a question that is not as smart. The user simply asks how to convert given time into milliseconds and gives a time format they are using. No further explanation is given and no example code is shown either.
+
+Though the title of the question is somewhat adequate for identifying the problem the user is having, the question itself is another story. It is brief, not concise like the smart question that was shown before. It has a single sentence with the user asking how to convert given time into milliseconds. It is quite obvious that the user did no research of their question before posting it, which is shown by the short and vague question the user asked. Thus, the question was met by equally curt responses with users directing the original poster to links and other resources. Though the question was eventually answered it was also flagged for being to broad.
 
 ## A Learning Experience
 
