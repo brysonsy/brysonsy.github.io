@@ -26,4 +26,4 @@ A smart question is a question asked after the subject has been researched thoro
 
 ## A Question that is not as Smart
 
-[Here](https://stackoverflow.com/questions/43120543/convert-given-time-into-millisecond) is an example of a question that is not as smart. 
+[Here](https://stackoverflow.com/questions/43120543/convert-given-time-into-millisecond) is an example of a question that is not as smart. Though the title of the question is somewhat adequate for identifying the problem the user is having, the question itself is another story. It is brief, not concise like the smart question that was shown before. It has a single sentence with the user asking how to convert given time into milliseconds. It is quite obvious that the user did no research of their question before posting it, which is shown by the short and vague question the user asked. Thus, the question was met by equally curt responses with users directing the original poster to links and other resources. Though the question was eventually answered it was also flagged for being to broad.
