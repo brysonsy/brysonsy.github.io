@@ -10,7 +10,7 @@ labels:
   - Smart Questions
 ---
 
-<img class="ui image" src="../images/javascript.png">
+<img class="ui image" src="../images/questions.jpg">
 
 ## What is a Smart Question?
 
