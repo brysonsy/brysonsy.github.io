@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Following the JavaScript
+title: Test
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
