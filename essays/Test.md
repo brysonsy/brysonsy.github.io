@@ -10,8 +10,6 @@ labels:
   - Smart Questions
 ---
 
-<img class="ui image" src="../images/javascript.png">
-
-## First Impressions Count
+## What is a Smart Question?
 
 
