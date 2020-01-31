@@ -20,6 +20,6 @@ A smart question is a question asked after the subject has been researched thoro
 
 ## A Smart Question
 
-
+[Here](https://stackoverflow.com/questions/5767325/how-do-i-remove-a-particular-element-from-an-array-in-javascript) is an example of a smart question, which can be found on StackOverflow. 
 
 ## A Not So Smart Question
