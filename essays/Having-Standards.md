@@ -14,6 +14,4 @@ labels:
 
 ## The First Impression Counts
 
-
-
-
+To be completely honest, going through the setup of ESLint made me feel that it was tedious. 
