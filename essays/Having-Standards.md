@@ -18,6 +18,6 @@ To be completely honest, going through the setup of ESLint made me feel that it 
 
 ## Meeting Standards
 
-
+After taking a step back from the feeling of frustration I had when setting up ESLint, it is abundantly clear to me how useful ESLint and how important coding standards are for coding as a whole. While we may not like to admit it, we all make mistakes, this is especially clear when the thing that was causing a major issue in your code could be something as simple as a missing semicolon, or a misspelt variable. 
 
 ## A Green Checkmark for ESLint
