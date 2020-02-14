@@ -10,8 +10,8 @@ labels:
   - IntelliJ
 ---
 
-<img class="ui image" src="../images/questions.jpg">
+<img class="ui image" src="../images/codingstandards.png">
 
 ## The First Impression Counts
 
-To be completely honest, going through the setup of ESLint made me feel that it was tedious. 
+To be completely honest, going through the setup of ESLint made me feel that it was tedious. Despite this I fully understand the reasons behind the use of such utilities. There are many different ways people write code, and sometimes code is not consistent and does not follow any coding standards. 
