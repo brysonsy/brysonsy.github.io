@@ -18,6 +18,8 @@ To be completely honest, going through the setup of ESLint made me feel that it 
 
 ## Meeting Standards
 
-After taking a step back from the feeling of frustration I had when setting up ESLint, it is abundantly clear to me how useful ESLint and how important coding standards are for coding as a whole. While we may not like to admit it, we all make mistakes, this is especially clear when the thing that was causing a major issue in your code could be something as simple as a missing semicolon, or a misspelt variable. 
+After taking a step back from the feeling of frustration I had when setting up ESLint, it is abundantly clear to me how useful ESLint and how important coding standards are for coding as a whole. While we may not like to admit it, we all make mistakes, this is especially clear when the thing that was causing a major issue in your code could be something as simple as a missing semicolon, or a misspelt variable. This is when ESLint comes into play, it gives people the ability to clean up their code and to establish a higher standard for themselves, and by establishing coding standards it makes it easier to remember to organize code and allows you to get rid of any bad habits you could have when coding.
+
+Coding standards are especially important when collaborating with others. By using coding standards other developers will be able to understand your code easier, which leads to less time spent on simply trying to understand messy and unorganized code and more time spent on actually working on the project that is being collaborated on. 
 
 ## A Green Checkmark for ESLint
