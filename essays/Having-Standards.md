@@ -14,4 +14,4 @@ labels:
 
 ## The First Impression Counts
 
-To be completely honest, going through the setup of ESLint made me feel that it was tedious. Despite this I fully understand the reasons behind the use of such utilities. There are many different ways people write code, and sometimes code is not consistent and does not follow any coding standards. 
+To be completely honest, going through the setup of ESLint made me feel that it was tedious. Despite this I fully understand the reasons behind the use of such utilities. There are many different ways people write code, and sometimes code is not consistent and does not follow any coding standards. Looking at unorganized and messy code is definitely more frustrating than setting up the utilities needed to make sure code is formatted in line with coding standards.
