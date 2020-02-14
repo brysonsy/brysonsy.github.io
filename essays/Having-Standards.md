@@ -19,3 +19,5 @@ To be completely honest, going through the setup of ESLint made me feel that it 
 ## Meeting Standards
 
 
+
+## A Green Checkmark for ESLint
