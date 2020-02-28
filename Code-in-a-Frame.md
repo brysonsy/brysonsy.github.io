@@ -13,6 +13,5 @@ labels:
 
 <img class="ui image" src="../images/questions.jpg">
 
-## 
-
+## Learning Semantics
 
