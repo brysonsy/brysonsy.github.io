@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Asking Questions the Smart Way
+title: Code in a Frame
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-27
 labels:
@@ -13,6 +13,6 @@ labels:
 
 <img class="ui image" src="../images/questions.jpg">
 
-##
+## 
 
 
