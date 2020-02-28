@@ -19,4 +19,6 @@ When I first started using UI Frameworks, or more specifically Semantic UI, it s
 
 Compared to only using standard HTML and CSS, using Semantic UI made the process of making a website so much more simple. While it can take hours to create a complex website with only HTML and CSS, while using UI Frameworks it can shorten that time dramatically. This is not only from the framework and coding tools that these UI Frameworks provide, but also from the knowledge and understanding that one gains from using these frameworks which allow a programmer to create a complex website efficiently and effectively.
 
-## 
+## Modern Design
+
+
