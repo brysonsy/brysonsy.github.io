@@ -21,4 +21,4 @@ Compared to only using standard HTML and CSS, using Semantic UI made the process
 
 ## Modern Design
 
-
+UI Frameworks also let programmers create sleek and modern UI components relatively easily. While it may take days, even weeks to create a modern looking website, UI Frameworks provide a variety of tools which allow programmers to create appealing websites. Unlike if they were using solely HTML and CSS to create website which can lead to it looking rigid and unappealing, and even if it a sleek and well designed website, the amount of time that must be put into it can lead to this method not being very viable. 
