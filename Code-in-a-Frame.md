@@ -11,7 +11,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui image" src="../images/questions.jpg">
+<img class="ui image" src="../images/SemanticUI.png">
 
 ## Learning Semantic
 
