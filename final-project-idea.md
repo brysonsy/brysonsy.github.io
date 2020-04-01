@@ -38,6 +38,8 @@ Some possible mockup pages include:
 The step-by-step use of the application is as follows:
 * Users goes to landing page, goes to create account page, goes to user home page where a tutorial will be avaliable, edit account is avaliable.
 * Admin goes to landing page, logs in, gets admin homepage, admin edits site.
+* After logging in, user goes to landing page, goes to water fountain review page (to review).
+* After logging in, user goes to landing page, goes to add water fountain page (to add).
 
 ## Beyond the basics.
 
