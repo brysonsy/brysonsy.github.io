@@ -1,13 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Asking Questions the Smart Way
-# All dates must be YYYY-MM-DD format!
-date: 2020-01-30
+title: "Final Project Idea"
+date: 2019-11-05
 labels:
-  - JavaScript
   - Software Engineering
-  - Smart Questions
+  - Meteor
 ---
 
 <img class="ui image" src="../images/questions.jpg">
