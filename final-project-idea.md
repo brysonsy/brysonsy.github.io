@@ -19,3 +19,18 @@ The Solution: Introducing Water Connoisseur, for the times you don't have a wate
 For this app, there will be a way to organize and present different water fountains around the UH Manoa campus. There will be two roles, Users, who can login to review water fountains and submit requests to have water fountains added to the list of reviewable water fountains. Admins, who will be able to login and moderate the app as well as add water fountains to the reviewable list. 
 
 Users should also be able to rate other users reviews, with a like and dislike system. With inappropriate reviews being able to be removed by Admins.
+
+There should also be a sorting system, with top rated water fountains being able to be found easily.
+
+Some possible mockup pages include:
+* Landing page
+* User home page
+* Admin home page
+* Add water fountain page
+* User settings page
+* Water fountain review page
+* Top rated water fountains page
+* Create account page
+
+## Use Case Ideas
+
