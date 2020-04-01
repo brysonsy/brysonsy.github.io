@@ -7,6 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
+*Authors: Bryson Yuen, Sean Sumida*
 
 ## Overview
 
