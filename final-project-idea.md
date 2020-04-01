@@ -43,3 +43,7 @@ The step-by-step use of the application is as follows:
 
 ## Beyond the basics.
 
+* Users can request to add a new water fountain not perviously in our registry.
+* Users rate water fountain from 0 - 10.
+* Users writes a review of the chosen water fountain.
+* Other users can rate the review with likes and dislikes.
