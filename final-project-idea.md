@@ -32,5 +32,9 @@ Some possible mockup pages include:
 * Top rated water fountains page
 * Create account page
 
-## Use Case Ideas
+## Use case ideas
+
+
+
+## Beyond the basics.
 
