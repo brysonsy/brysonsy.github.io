@@ -27,6 +27,7 @@ Some possible mockup pages include:
 * Landing page
 * User home page
 * Admin home page
+* Admin edit page
 * Add water fountain page
 * User settings page
 * Water fountain review page
@@ -34,8 +35,9 @@ Some possible mockup pages include:
 * Create account page
 
 ## Use case ideas
-
-
+The step-by-step use of the application is as follows:
+* Users goes to landing page, goes to create account page, goes to user home page where a tutorial will be avaliable, edit account is avaliable.
+* Admin goes to landing page, logs in, gets admin homepage, admin edits site.
 
 ## Beyond the basics.
 
