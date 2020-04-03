@@ -14,4 +14,6 @@ Thankfully, I was always an introvert so Covid hasn't had an enormous impact on 
 
 Though because of Covid, I haven't really gone much at all ever since the university transitioned to online classes. With my restaurant job being on hold due to the order to shut down non essential businesses, I haven't been able to get a salary either. Also, since all the gyms were forced to close, I haven't been able to work out at all either, so I'm a bit worried about how my physical health will be after the quarantine is over. Also, while I have not been able to see my friends physically, I am luckily still able to communicate with them through applications like Discord, so not much has changed with my social life.
 
-##
+## The Impact
+
+
