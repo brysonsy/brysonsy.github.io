@@ -16,4 +16,4 @@ Though because of Covid, I haven't really gone much at all ever since the univer
 
 ## The Impact
 
-Though the impact that Covid has had on my life is undeniable. It has made me much more aware of my cleanliness and personal hygiene due to not wanting to infect my family members with anything. 
+Though the impact that Covid has had on my life is undeniable. It has made me much more aware of my cleanliness and personal hygiene due to not wanting to infect my family members with anything. I have grandparents who have compromised immune systems, so I tend to worry a lot about accidently infecting them since the virus has such a long incubation period and the fact that I could still infect someone even if I don't have any symptoms is terrifying. 
