@@ -20,4 +20,6 @@ Though the impact that Covid has had on my life is undeniable. It has made me mu
 
 The virus has definitely affected the community immensly as well, with many small businesses being affected badly due to being forced to close. And even if these businesses weren't forced to close, they probably wouldn't have had many customers due to many people being fearful of Covid. The university has also been affected with many students not being able to have a graduation ceremony. Though, us students are thankfully still able to complete the semester, with the university being dedicated to allowing students to complete their classes despite the pandemic. And dedicated teachers who are able to continue teaching their classes despite the move to online. 
 
+## Moving Forward
 
+In order to move forward successfully, I feel that even after Covid is over, people need to be aware of just how dangerous pandemics like these can be. It's very obvious how unprepared many places were for a pandemic of this size, with supply shortages and how slow the response time was in many places. With many people taking modern medicine for granted and not understanding just how easily this kind of thing can spread, it is a huge lesson for all of us. 
