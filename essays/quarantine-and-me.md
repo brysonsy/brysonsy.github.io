@@ -17,3 +17,7 @@ Though because of Covid, I haven't really gone much at all ever since the univer
 ## The Impact
 
 Though the impact that Covid has had on my life is undeniable. It has made me much more aware of my cleanliness and personal hygiene due to not wanting to infect my family members with anything. I have grandparents who have compromised immune systems, so I tend to worry a lot about accidently infecting them since the virus has such a long incubation period and the fact that I could still infect someone even if I don't have any symptoms is terrifying. It definitely has made me more stressed and worried about the well being of my family and friends, and I can tell that I do act differently around people who show indication of being sick. Since I have allergies as well, I get worried whenever I sneeze or cough, as testing isn't as widely avaliable as it should be at the moment. 
+
+The virus has definitely affected the community immensly as well, with many small businesses being affected badly due to being forced to close. And even if these businesses weren't forced to close, they probably wouldn't have had many customers due to many people being fearful of Covid. The university has also been affected with many students not being able to have a graduation ceremony. Though, us students are thankfully still able to complete the semester, with the university being dedicated to allowing students to complete their classes despite the pandemic. And dedicated teachers who are able to continue teaching their classes despite the move to online. 
+
+
