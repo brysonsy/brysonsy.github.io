@@ -16,4 +16,4 @@ Though because of Covid, I haven't really gone much at all ever since the univer
 
 ## The Impact
 
-
+Though the impact that Covid has had on my life is undeniable. 
