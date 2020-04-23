@@ -9,7 +9,7 @@ labels:
   - Ethics
 ---
 
-<img class="ui image" src="../images/javascript.png">
+<img class="ui image" src="../images/ethics.jpg">
 
 ## 
 
