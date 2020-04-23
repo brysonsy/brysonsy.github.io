@@ -11,6 +11,6 @@ labels:
 
 <img class="ui image" src="../images/javascript.png">
 
-## First Impressions Count
+## 
 
 
