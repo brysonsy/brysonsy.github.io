@@ -21,3 +21,6 @@ In our current technologically advanced society, the issue of privacy is a preva
 
 In the ACM Code of Ethics one of the general ethical principles is to respect the privacy of users. Though, this ethical principle was clearly broken by Google in 2010 with the privacy scandal Google had. This privacy scandal involved them collecting personal information from their users through their vehicles. And while there is a need to collect some personal information from users, the ACM Code of Ethics states that only a minimum amount of necessary personal data should be collected by the system, and the information collected should be clearly stated to users. Since Google did not notify users of the large amount of personal data that was collected by them, this act was clearly unethical.
 
+
+
+## The Stance
