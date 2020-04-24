@@ -17,4 +17,7 @@ As a software developer it is extremely important to have a devotion to deliveri
 
 ## Privacy
 
-In our current technologically advanced society, the issue of privacy is a prevalent one with it seeming to become more scarce with each passing day. With the issue being especially prevalent in regards to software, with breaches of privacy being one of the major concerns of the avaerage consumer. 
+In our current technologically advanced society, the issue of privacy is a prevalent one with it seeming to become more scarce with each passing day. With the issue being especially prevalent in regards to software, with breaches of privacy being one of the major concerns of the avaerage consumer. With latest technological advancement, this is a topic that has to be discussed in order to ensure ethical standards are met and to secure the privacy of consumers. 
+
+In the ACM Code of Ethics one of the general ethical principles is to respect the privacy of users. Though, this ethical principle was clearly broken by Google in 2010 with the privacy scandal Google had. This privacy scandal involved them collecting personal information from their users through their vehicles. And while there is a need to collect some personal information from users, the ACM Code of Ethics states that only a minimum amount of necessary personal data should be collected by the system, and the information collected should be clearly stated to users. Since Google did not notify users of the large amount of personal data that was collected by them, this act was clearly unethical.
+
