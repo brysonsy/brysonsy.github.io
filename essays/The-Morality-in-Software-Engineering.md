@@ -21,7 +21,7 @@ In our current technologically advanced society, the issue of privacy is a preva
 
 In the ACM Code of Ethics one of the general ethical principles is to respect the privacy of users. Though, this ethical principle was clearly broken by Google in 2010 with the privacy scandal Google had. This privacy scandal involved them collecting personal information from their users through their vehicles. And while there is a need to collect some personal information from users, the ACM Code of Ethics states that only a minimum amount of necessary personal data should be collected by the system, and the information collected should be clearly stated to users. Since Google did not notify users of the large amount of personal data that was collected by them, this act was clearly unethical.
 
-It could also be argued that Google's StreetView feature is another example of ethic standards being broken, with many houses being in plain view for the world to see. 
+It could also be argued that Google's StreetView feature is another example of ethic standards being broken, with many houses being in plain view for the world to see. The photos of houses on display could also be used by criminals in order to locate possible targets. With one of the general code of ethics being to avoid harm, this was clearly unethical. As with houses being on full display allowing many to view them to find vulnerabilities and weaknesses.
 
 ## The Stance
 
