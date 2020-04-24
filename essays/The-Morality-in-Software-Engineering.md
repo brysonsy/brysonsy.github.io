@@ -17,4 +17,4 @@ As a software developer it is extremely important to have a devotion to deliveri
 
 ## Privacy
 
-In our current technologically advanced society, the issue of privacy is a prevalent one with it seeming to become more scarce with each passing day. 
+In our current technologically advanced society, the issue of privacy is a prevalent one with it seeming to become more scarce with each passing day. With the issue being especially prevalent in regards to software, with breaches of privacy being one of the major concerns of the avaerage consumer. 
