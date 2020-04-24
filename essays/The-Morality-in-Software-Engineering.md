@@ -13,4 +13,4 @@ labels:
 
 ## Ethics in the Context of Software Engineering
 
-As a software developer it is extremely important to have a devotion to delivering a high quality product for the consumer. 
+As a software developer it is extremely important to have a devotion to delivering a high quality product for the consumer. And in order to create a quality product, being ethical in the creation of the product is of the utmost importance. 
