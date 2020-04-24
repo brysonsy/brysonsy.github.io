@@ -11,6 +11,7 @@ labels:
 
 <img class="ui image" src="../images/ethics.jpg">
 
-## 
+## Ethics in the Context of Software Engineering
+
 
 
