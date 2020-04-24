@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Following the JavaScript
+title: The Morality in Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-23
 labels:
