@@ -13,5 +13,4 @@ labels:
 
 ## Ethics in the Context of Software Engineering
 
-
-
+As a software developer it is extremely important to have a devotion to delivering a high quality product for the consumer. 
