@@ -24,3 +24,5 @@ In the ACM Code of Ethics one of the general ethical principles is to respect th
 
 
 ## The Stance
+
+After going through the case study on privacy, the importance of clarity with users on the type of personal information collected has become extremely clear to me. I feel that users should know what personal information is being collected from them for the system, and users should be able to decide for themselves whether they wish to use the application or not. The consent of the user is extremely important in these situations, because if a user does not even know what information is being taken from them, how could that ever be ethical?
