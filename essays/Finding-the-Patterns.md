@@ -19,3 +19,4 @@ Though there are many design patterns that software engineers can learn, and the
 
 ## Applying Knowledge
 
+After looking at many of the design patterns that are available to software engineers, I realized that even in indroductory courses for computer science, I have been using design patterns in my programs. 
