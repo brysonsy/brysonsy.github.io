@@ -19,4 +19,8 @@ Though there are many design patterns that software engineers can learn, and the
 
 ## Applying Knowledge
 
-After looking at many of the design patterns that are available to software engineers, I realized that even in indroductory courses for computer science, I have been using design patterns in my programs. 
+After looking at many of the design patterns that are available to software engineers, I realized that even in indroductory courses for computer science, I have been using design patterns in my programs. A major one that I have used would be singleton and factory patterns, which allowed me to have a level of efficiency that I wouldn't normally have had in my program. With the factory pattern allowing me to return objects associated with different classes and the singleton pattern which ensures that a class has one instance and providing a global point of access to that instance. 
+
+## Overcoming Difficulties
+
+With the difficulty only increasing as I continue down the path for my computer science major, it is imperative that I continue to expand my skill set for the upcoming challenges that I will have to face. Adding design patterns to my repertoire will undoubtedely create a variety of oppurtunities for me in the future.
