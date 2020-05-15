@@ -13,4 +13,6 @@ labels:
 
 Throughout the semester I have had the amazing oppurtunity to learn about software engineering, and everything that comes with it. Through this semester, I gained the mindset of an athletic software engineer and grew as a student in computer science. With the semester soon coming to a close, I wanted to show the various skills that I have learned that will continue to aid me in my journey as a computer science major. 
 
-## 
+## Addressing the Ethics
+
+Ethics is one of the most important things that has to be considered, especially in the field of software engineering. 
