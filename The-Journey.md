@@ -21,3 +21,4 @@ Though ethics is not only limited to the field of software engineering, as ethic
 
 ## User Interface Frameworks
 
+In class we were also introduced to a variety of different frameworks, such as Semantic UI and React. 
