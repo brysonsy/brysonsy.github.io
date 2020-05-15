@@ -3,11 +3,10 @@ layout: essay
 type: essay
 title: Having Standards
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-13
+date: 2020-05-14
 labels:
-  - JavaScript
-  - ESLint
-  - IntelliJ
+  - Software Engineering
+  - ICS 314
 ---
 
 <img class="ui image" src="../images/codingstandards.png">
