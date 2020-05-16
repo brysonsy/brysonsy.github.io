@@ -23,4 +23,4 @@ My contribution to the project was the creation of the rating system and the dir
 
 
 
-Here is the [UH Water Connoisseur Home Page](https://uh-waterfountain.github.io/)
+Here is the [UH Water Connoisseur Home Page](https://uh-waterfountain.github.io/) and here is the link the the [UH Water Connoisseur Source Code](https://github.com/uh-waterfountain/uh-waterfountain).
