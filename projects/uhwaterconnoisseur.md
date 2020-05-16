@@ -21,6 +21,6 @@ For our final project in ICS 314 I developed a website called UH Water Connoisse
 
 My contribution to the project was the creation of the rating system and the directory page. Though, I also tried to help out on any other issues that my group members were having trouble with. The directory page acted as a short explantion of features for the application, with it being the first page users see after logging in. It provided direct links to the most important features and offered explanations for each of them, allowing users to gain an understanding of the application and the features that it offered. The rating system was created so users could rate any fountain on the current list and saving it to their personal accounts so they could always see and remember what they rated a certain fountain. 
 
-Through this project I have gained a significant amount of insight to collaboration with multiple group members and the project management skills that are required to successfully create a group application. 
+Through this project I have gained a significant amount of insight to collaboration with multiple group members and the project management skills that are required to successfully create a group application. Working on the rating system 
 
 Here is the [UH Water Connoisseur Home Page](https://uh-waterfountain.github.io/) and here is the link the the [UH Water Connoisseur Source Code](https://github.com/uh-waterfountain/uh-waterfountain).
