@@ -17,5 +17,5 @@ For our final project in ICS 314 I developed a website called UH Water Connoisse
 
 <img class="ui image" src="../images/landingPage.png">
 
-My contribution to the project was the creation of the rating system and the directory page. Though, I also tried to help out on any other issues that my group members were having trouble with. 
+My contribution to the project was the creation of the rating system and the directory page. Though, I also tried to help out on any other issues that my group members were having trouble with. The directory page acted as a short explantion of features for the application, with it being the first page users see after logging in. 
 
