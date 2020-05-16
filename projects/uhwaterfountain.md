@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/hurricaneHeader.png
+image: images/waterfountain.jpg
 title: UH Water Fountains
-permalink: projects/hurricanegame
+permalink: projects/uhwaterfountain
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-13
 labels:
