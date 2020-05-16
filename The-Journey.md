@@ -25,4 +25,4 @@ In class we were also introduced to a variety of different frameworks, such as S
 
 ## Project Management
 
-As a budding programmer, I haven't had the chance to work in many groups yet, with the biggest group I have worked in being three people including myself. 
+As a budding programmer, I haven't had the chance to work in many groups yet, with the biggest group I have worked in being three people including myself. So, when we were tasked with our final group project, it was a great oppurtunity for me to learn how to collaborate with other programmers. 
