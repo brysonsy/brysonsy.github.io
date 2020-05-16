@@ -21,7 +21,7 @@ Though ethics is not only limited to the field of software engineering, as ethic
 
 ## User Interface Frameworks
 
-In class we were also introduced to a variety of different frameworks, such as Semantic UI and React. These frameworks allowed us to streamline the design process, and were amazing time savers. Since we were able to use the many features to create a sleek and modern website, while also being fully functional. 
+In class we were also introduced to a variety of different frameworks, such as Semantic UI and React. These frameworks allowed us to streamline the design process, and were amazing time savers. Since we were able to use the many features to create a sleek and modern website, while also being fully functional. Especially with our project's website, UH Waterfountains, we were able to create a sleek and functional rating system and a nav bar. With web design being a huge aspect that can easily take up a massive amount of time, by using the frameworks that we worked with in class we were able to efficiently and effectively create a flowing web page which was user friendly. If we did not have UI frameworks to work with, the amount of time used to even create one functional page would've been astonishing. Though it was difficult to get used to at first, with practice and time frameworks can be an amazing asset to any software engineer.
 
 ## Project Management
 
