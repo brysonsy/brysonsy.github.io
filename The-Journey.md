@@ -9,7 +9,7 @@ labels:
   - ICS 314
 ---
 
-<img class="ui image" src="../images/questions.jpg">
+<img class="ui image" src="../images/softwareEngineering.jpg">
 
 ## Growth
 
