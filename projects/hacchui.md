@@ -5,7 +5,7 @@ image: images/hacchui.png
 title: HACC-Hui
 permalink: projects/hacchui
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-13
+date: 2020-12-15
 labels:
   - ICS 414
   - React
