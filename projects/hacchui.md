@@ -10,7 +10,7 @@ labels:
   - ICS 414
   - React
   - Meteor
-summary: A website developed with group members as a final project for ICS 314.
+summary: A website developed to help participants of the Hawaii Annual Code Challenge with team formation.
 ---
 
  
