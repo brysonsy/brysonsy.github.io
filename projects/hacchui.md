@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/waterfountain.jpg
-title: UH Water Connoisseur
-permalink: projects/uhwaterconnoisseur
+title: HACC-Hui
+permalink: projects/hacchui
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-13
 labels:
