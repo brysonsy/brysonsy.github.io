@@ -13,4 +13,4 @@ labels:
 summary: A website developed to help participants of the Hawaii Annual Code Challenge with team formation.
 ---
 
- 
+With over 200 developers attending the initial Hawaii Annual Code Challenge kick-off, 
