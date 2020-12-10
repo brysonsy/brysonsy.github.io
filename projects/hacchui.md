@@ -13,4 +13,4 @@ labels:
 summary: A website developed to help participants of the Hawaii Annual Code Challenge with team formation.
 ---
 
-With over 200 developers attending the initial Hawaii Annual Code Challenge kick-off, 
+With over 200 developers attending the initial Hawaii Annual Code Challenge kick-off, there was a need for a better way to simplify the formation and management of teams between developers. Especially with the pandemic, which made it difficult for developers to meet and form teams in person. This all lead to the creation of HACC-Hui, 
