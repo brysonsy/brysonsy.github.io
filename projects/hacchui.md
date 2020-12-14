@@ -17,3 +17,5 @@ With over 200 developers attending the initial <a href="https://hacc.hawaii.gov/
 
 <img class="ui image" src="../images/hacchuilanding.png">
 
+##Hacc-Hui Functionality
+
