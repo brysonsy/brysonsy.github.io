@@ -23,4 +23,4 @@ At the beginning of the semester we were initially split into groups of 4-5 peop
 
 ## Milestone 1
 
-For the <a href="https://hacc-hui.github.io/docs/requirements/milestone1">first milestone</a> our team decided to make a design mockup for website in order to have a cohesive user interface. After that we all assigned ourselves an issue that the milestone had. The one I was responsible for was 
+For the <a href="https://hacc-hui.github.io/docs/requirements/milestone1">first milestone</a> our team decided to make a design mockup for website in order to have a cohesive user interface. After that we all assigned ourselves an issue that the milestone had. The one I was responsible for was US-D4: Create Team, which involved the creation of a team form where users could submit the information for a team they wished to create, and when the submit button was clicked this information would be added to the team collection. 
