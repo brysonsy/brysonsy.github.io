@@ -17,5 +17,7 @@ With over 200 developers attending the initial <a href="https://hacc.hawaii.gov/
 
 <img class="ui image" src="../images/hacchuilanding.png">
 
+At the beginning of the semester we were initially split into groups of 4-5 people where each group would create a different version of the website that would fulfill the requirements for the milestone we were working on at the time. 
+
 ## Hacc-Hui Functionality
 
