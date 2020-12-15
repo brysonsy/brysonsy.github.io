@@ -47,7 +47,7 @@ Relevant Links:
 
 ## Final Sprint
 
-
+During the <a href="https://hacc-hui.github.io/docs/requirements/milestone3">third milestone</a> it was decided that 
 
 <img class="ui image" src="../images/finalsprint.png">
 
