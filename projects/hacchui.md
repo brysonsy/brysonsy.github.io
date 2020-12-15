@@ -53,3 +53,4 @@ During the <a href="https://hacc-hui.github.io/docs/requirements/milestone3">thi
 
 Relevant Links:
 
+<a href="https://github.com/HACC-Hui/HACC-Hui/blob/issue-102/app/imports/ui/components/NavBar.jsx">Simplified Navbar Labels</a>
