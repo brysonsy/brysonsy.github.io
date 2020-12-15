@@ -69,4 +69,4 @@ Overall, I believe that we worked well as a team, we often scheduled weekly meet
 
 ## ICS414 Experience
 
-This year was a unique experience, as covid brought with it a necesity for online classes, ICS 414 became a interesting experience, with classes being held on a discord server rather than the usual zoom that other classes use. Though I felt that discord was a better choice than zoom would have been, especially for such a project oriented class. On the discord server we were able to have various discord channels for each group to use, and with 
+This year was a unique experience, as covid brought with it a necesity for online classes, ICS 414 became a interesting experience, with classes being held on a discord server rather than the usual zoom that other classes use. Though I felt that discord was a better choice than zoom would have been, especially for such a project oriented class. On the discord server we were able to have various discord channels for each group to use, and we were also able to have our resources in one place, which would not have been possible with zoom. 
