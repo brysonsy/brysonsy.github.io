@@ -57,6 +57,8 @@ Relevant Links:
 
 <a href="https://github.com/HACC-Hui/HACC-Hui/blob/issue-28/app/imports/ui/pages/participant/TeamCreation.jsx">Create Team Widget Updated to follow the theme</a>
 
+<a href="https://github.com/HACC-Hui/HACC-Hui/blob/issue-41/app/imports/ui/components/administrator/ViewTeamExampleWidget.jsx">Admin Page for Viewing Teams</a>
+
 <a href="https://github.com/HACC-Hui/HACC-Hui/projects/1">Final Sprint Project Board</a>
 
 
