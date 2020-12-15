@@ -63,4 +63,4 @@ Relevant Links:
 
 ## The Team Experience
 
-At the beginning of the class 
+At the beginning of the class we were split into teams and my team, Team CCC, consisted of myself, Matthew Kim, Kason Shiroma, and Moseli Motsoehli. When each milestone came around we would discuss with each other and decide which issues we would want to work on. And for issues that were closely linked to one another, like with the participant finder needing to work for the team finder, we would coordinate with each other, mostly through discord. 
