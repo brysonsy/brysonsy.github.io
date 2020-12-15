@@ -47,7 +47,7 @@ Relevant Links:
 
 ## Final Sprint
 
-During the <a href="https://hacc-hui.github.io/docs/requirements/milestone3">third milestone</a> it was decided that we would all work on the master repository of HACC-Hui as one group. 
+During the <a href="https://hacc-hui.github.io/docs/requirements/milestone3">third milestone</a> it was decided that we would all work on the master repository of HACC-Hui as one group. During the final sprint I worked on minor user interface changes like simplifying the navbar labels which involved changing the navbar labels to be shorter due to issues that the longer navbar labels caused on the mobile version of the site, as well as updating the create team widget to fit the color theme of the site which was as simple as changing the color of the team creation form. 
 
 <img class="ui image" src="../images/finalsprint.png">
 
