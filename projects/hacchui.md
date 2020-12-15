@@ -35,7 +35,7 @@ Relevant Links:
 
 ## Milestone 2
 
-For the <a href="https://hacc-hui.github.io/docs/requirements/milestone2">second milestone</a> our team once again split up the different issues, with one of the issues of the milestone going to one person. This time I was responsible for US-D6: Delete team, which involved creating a way for a team owner to delete their team from the site. 
+For the <a href="https://hacc-hui.github.io/docs/requirements/milestone2">second milestone</a> our team once again split up the different issues, with one of the issues of the milestone going to one person. This time I was responsible for US-D6: Delete team, which involved creating a way for a team owner to delete their team from the site. Though since this issue was relatively simple compared to other issues in this milestone I also tried to help out where I could on other issues like US-D7: See bestfit teams and US-D8: Indicate desire to join. As most of the time we were able to find solutions to our issues by working together and bouncing ideas off one another. 
 
 <img class="ui image" src="../images/milestone2.png">
 
