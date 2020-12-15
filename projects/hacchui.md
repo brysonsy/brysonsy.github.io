@@ -35,11 +35,21 @@ Relevant Links:
 
 ## Milestone 2
 
-For the <a href="https://hacc-hui.github.io/docs/requirements/milestone2">second milestone</a> our team once again split up the different issues, with one of the issues of the milestone going to one person. This time I was responsible for US-D6: Delete team, which involved creating a way for a team owner to delete their team from the site. Though since this issue was relatively simple compared to other issues in this milestone I also tried to help out where I could on other issues like US-D7: See bestfit teams and US-D8: Indicate desire to join. As most of the time we were able to find solutions to our issues by working together and bouncing ideas off one another. 
+For the <a href="https://hacc-hui.github.io/docs/requirements/milestone2">second milestone</a> our team once again split up the different issues, with one of the issues of the milestone going to one person. This time I was responsible for US-D6: Delete team, which involved creating a way for a team owner to delete their team from the site. Though since this issue was relatively simple compared to other issues in this milestone I also tried to help out where I could on other issues like US-D7: See bestfit teams and US-D8: Indicate desire to join. As most of the time we were able to find solutions to our issues by working together and bouncing ideas off one another. Though I still had some difficulty with the issue as I still didn't have a huge amount of experience with the methods for each collection. I also was having a bit of trouble making it so that only the owner of the team could delete it, though eventually I was able to work it out with my fellow team members.
 
 <img class="ui image" src="../images/milestone2.png">
 
 Relevant Links: 
 
+<a href="https://github.com/Team-CCC/HACC-Hui/blob/issue-07/app/imports/ui/components/developer/ListTeamExampleWidget.jsx">Delete Team Functionality on List Team Page</a>
 
+<a href="https://github.com/Team-CCC/HACC-Hui/projects/2">Milestone 2 Project Board</a>
+
+## Milestone 3
+
+
+
+<img class="ui image" src="../images/milestone3.png">
+
+Relevant Links:
 
