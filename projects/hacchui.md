@@ -29,6 +29,7 @@ For the <a href="https://hacc-hui.github.io/docs/requirements/milestone1">first 
 
 Relevant Links:
 
+<a href="https://github.com/Team-CCC/HACC-Hui/blob/issue-3/app/imports/ui/pages/CreateTeam.jsx">Create Team Page</a>
 
 ## Milestone 2
 
