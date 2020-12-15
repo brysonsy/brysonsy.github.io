@@ -35,3 +35,11 @@ Relevant Links:
 
 ## Milestone 2
 
+For the <a href="https://hacc-hui.github.io/docs/requirements/milestone2">second milestone</a> our team once again split up the different issues, with one of the issues of the milestone going to one person. This time I was responsible for US-D6: Delete team, which involved creating a way for a team owner to delete their team from the site. 
+
+<img class="ui image" src="../images/milestone2.png">
+
+Relevant Links: 
+
+
+
