@@ -54,3 +54,9 @@ During the <a href="https://hacc-hui.github.io/docs/requirements/milestone3">thi
 Relevant Links:
 
 <a href="https://github.com/HACC-Hui/HACC-Hui/blob/issue-102/app/imports/ui/components/NavBar.jsx">Simplified Navbar Labels</a>
+
+<a href="https://github.com/HACC-Hui/HACC-Hui/blob/issue-28/app/imports/ui/pages/participant/TeamCreation.jsx">Create Team Widget Updated to follow the theme</a>
+
+<a href="https://github.com/HACC-Hui/HACC-Hui/projects/1">Final Sprint Project Board</a>
+
+
