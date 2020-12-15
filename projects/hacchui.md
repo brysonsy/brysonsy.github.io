@@ -31,5 +31,7 @@ Relevant Links:
 
 <a href="https://github.com/Team-CCC/HACC-Hui/blob/issue-3/app/imports/ui/pages/CreateTeam.jsx">Create Team Page</a>
 
+<a href="https://github.com/Team-CCC/HACC-Hui/projects/1">Milestone 1 Project Board</a>
+
 ## Milestone 2
 
