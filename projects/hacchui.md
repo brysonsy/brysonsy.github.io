@@ -45,11 +45,11 @@ Relevant Links:
 
 <a href="https://github.com/Team-CCC/HACC-Hui/projects/2">Milestone 2 Project Board</a>
 
-## Milestone 3
+## Final Sprint
 
 
 
-<img class="ui image" src="../images/milestone3.png">
+<img class="ui image" src="../images/finalsprint.png">
 
 Relevant Links:
 
